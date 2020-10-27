@@ -1,0 +1,20 @@
+{
+    "Author": "Tariq Younas",
+    "ContentSize": 1110,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/uploading-custom-vhd-in-azure-using-powershell/master/UploadYourCustomVHD.ps1",
+    "DownloadCount": 755,
+    "Id": "Uploading-custom-VHD-in-910aa28b",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 299,
+    "RaterCount": 7,
+    "Rating": 5.0,
+    "ReleaseDate": "2016-9-19T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "PowerShell script below will allow you to upload your custom VHD to Azure Subscription.",
+    "Title": "Uploading custom VHD in Azure using PowerShell",
+    "UpdatedDate": "2016-9-19T00:00:00",
+    "Url": "https://github.com/azureautomation/uploading-custom-vhd-in-azure-using-powershell",
+    "UserTags": "Microsoft Azure, Windows Azure PowerShell, Azure Automation"
+}
